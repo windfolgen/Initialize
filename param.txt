@@ -1,0 +1,12 @@
+// this the test parameter file
+test1 = 1
+ test2 = 1004
+  test3  = 3.23
+test4 = 21100 //balabala
+
+
+ // another group
+test5 = 123
+
+//test
+test6 =  1.234e-3
